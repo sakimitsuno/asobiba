@@ -1,0 +1,8 @@
+.title{
+  color: #02ccba;
+}
+li{
+  list-style:none;
+  float:left;
+  padding:10px 40px;
+}
